@@ -1,0 +1,102 @@
+.page1{
+
+    position: absolute;
+    width: 746px;
+    height: 595px;
+    left: 1047px;
+    top: 334px;
+    object-fit: cover;
+    max-width: 50%;
+    max-height: 50%;
+    filter: drop-shadow(10px 7px 4px rgba(0, 0, 0, 0.25));
+
+    background: url(https://cdnn1.inosmi.ru/img/25071/06/250710606_0:0:1920:1280_1440x900_80_0_1_a850eeb491ef191714a4d8ffa3d3df2f.jpg.webp?source-sid=pixabay);
+    border-radius: 155px;
+}
+.page2{
+    position: absolute;
+    width: 746px;
+    height: 595px;
+    left: 182px;
+    top: 1172px;
+    object-fit: cover;
+    max-width: 50%;
+    max-height: 50%;
+    filter: drop-shadow(10px 7px 4px rgba(0, 0, 0, 0.25));
+
+
+    background: url(https://www.oum.ru/upload/iblock/659/659e48b10a3e8c56dd590ec6e6487d2d.jpg);
+    border-radius: 155px;
+}
+.head{
+    position: absolute;
+    width: 492px;
+    height: 102px;
+    left: 341px;
+    top: 210px;
+
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 119px;
+
+    color: #DFF500;
+}
+.text1{position: absolute;
+    width: 503px;
+    height: 504px;
+    left: 351px;
+    top: 400px;
+
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+
+    color: #FFFFFF;}
+.down{
+
+    position: absolute;
+    width: 254px;
+    height: 42px;
+    left: calc(50% - 120px/2);
+    top: 850px;
+
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+.text2{position: absolute;
+    width: 771px;
+    height: 336px;
+    left: 1055px;
+    top: 1172px;
+
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+
+    color: #FFFFFF;}
+.yellowtext{position: absolute;
+    width: 771px;
+    height: 336px;
+    left: 1055px;
+    top: 1450px;
+
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+
+    color: #DFF500;}
